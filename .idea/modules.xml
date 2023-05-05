@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Projects/MyWebsite/.idea/MyWebsite.iml" filepath="$USER_HOME$/Projects/MyWebsite/.idea/MyWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tutoring.iml" filepath="$PROJECT_DIR$/.idea/Tutoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ZeroToHero/.idea/ZeroToHero.iml" filepath="$PROJECT_DIR$/../ZeroToHero/.idea/ZeroToHero.iml" />
+      <module fileurl="file://$USER_HOME$/capstoneProject/backendCapstone/.idea/backendCapstone.iml" filepath="$USER_HOME$/capstoneProject/backendCapstone/.idea/backendCapstone.iml" />
+      <module fileurl="file://$USER_HOME$/capstoneProject/frontendcapstone/.idea/frontendcapstone.iml" filepath="$USER_HOME$/capstoneProject/frontendcapstone/.idea/frontendcapstone.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/reduxThunk/.idea/reduxThunk.iml" filepath="$USER_HOME$/Desktop/reduxThunk/.idea/reduxThunk.iml" />
+    </modules>
+  </component>
+</project>
