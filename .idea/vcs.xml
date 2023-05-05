@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$USER_HOME$/Desktop/reduxThunk" vcs="Git" />
     <mapping directory="$USER_HOME$/Projects/MyWebsite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ChristianRamirez" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RateMyMechanic" vcs="Git" />
     <mapping directory="$USER_HOME$/capstoneProject/backendCapstone" vcs="Git" />
